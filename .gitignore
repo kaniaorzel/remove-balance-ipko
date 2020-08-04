@@ -1,0 +1,8 @@
+node_modules
+*.sw*
+splitted/*
+!splitted/.gitkeep
+merged/*
+!merged/.gitkeep
+files/*
+!files/.gitkeep
