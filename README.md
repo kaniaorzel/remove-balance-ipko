@@ -2,7 +2,7 @@
 
 ## How it works?
 
-Imagemagick split pdf's into `jpg` files, later Imagemagick put white rectangle onto `balance` places.
+ImageMagick split pdf's into `jpg` files, later ImageMagick put white rectangle onto `balance` places.
 After this operations, we back merge to `pdf` files. That's all.
 
 ## Dependencies
